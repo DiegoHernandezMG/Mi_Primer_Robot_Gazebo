@@ -8,13 +8,13 @@
 ![IPN](https://user-images.githubusercontent.com/76974066/113465750-d41df080-93f3-11eb-868a-8514b1938e8e.png)
 
 
-## Estas son las medidas del chasis:
-# [X, Y, Z] = [0.3, 1.0, 0.1]
+# Estas son las medidas del chasis:
+### [X, Y, Z] = [0.3, 1.0, 0.1]
 
-## Estas son las medidas de las llantas:
-#    • Z pose = 0.2
-#    • Roll = 1.5707 rad
-#    • Visual and Collision geometry: [Radius, Length] = [0.2, 0.1]
+# Estas son las medidas de las llantas:
+### • Z pose = 0.2
+### • Roll = 1.5707 rad
+### • Visual and Collision geometry: [Radius, Length] = [0.2, 0.1]
 
-## Este será el croquis que trazaremos para el modelo de la casa.
+# Este será el croquis que trazaremos para el modelo de la casa.
 ![Mapa](https://user-images.githubusercontent.com/76974066/113465860-6625f900-93f4-11eb-9072-9a1fe242dd57.jpg)
