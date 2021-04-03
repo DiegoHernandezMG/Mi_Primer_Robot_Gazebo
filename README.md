@@ -13,3 +13,5 @@
 ##    • Z pose = 0.2
 ##    • Roll = 1.5707 rad
 ##    • Visual and Collision geometry: [Radius, Length] = [0.2, 0.1]
+
+![Mapa](https://user-images.githubusercontent.com/76974066/113465860-6625f900-93f4-11eb-9072-9a1fe242dd57.jpg)
